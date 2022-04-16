@@ -59,6 +59,9 @@ public class Tekar_001_01 {
         System.out.println(harf2);
 
 
+        System.out.println("Ilker hoca tesekkur ederim");
+
+
 
 
 
